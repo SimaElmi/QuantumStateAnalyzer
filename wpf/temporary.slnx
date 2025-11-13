@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Quantum-State/Quantum-State/Quantum-State.csproj" />
+  <Project Path="Quantum q/Quantum q.csproj" />
+  <Project Path="temporary/temporary.csproj" />
+</Solution>

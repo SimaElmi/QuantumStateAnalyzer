@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quantum-State")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+937c82e316bcf6025472909ec2cbd112c4c22018")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quantum-State")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quantum-State")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

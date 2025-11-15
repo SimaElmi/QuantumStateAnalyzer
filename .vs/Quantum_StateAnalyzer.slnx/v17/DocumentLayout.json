@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2C96E-0643-7E14-C6F9-4E6F42D40C11}|wpf\\temporary\\wpf.csproj|c:\\users\\sima.elmi\\source\\repos\\quantumstateanalyzer_clean\\wpf\\temporary\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE2C96E-0643-7E14-C6F9-4E6F42D40C11}|wpf\\temporary\\wpf.csproj|solutionrelative:wpf\\temporary\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2C96E-0643-7E14-C6F9-4E6F42D40C11}|wpf\\temporary\\wpf.csproj|c:\\users\\sima.elmi\\source\\repos\\quantumstateanalyzer_clean\\wpf\\temporary\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BE2C96E-0643-7E14-C6F9-4E6F42D40C11}|wpf\\temporary\\wpf.csproj|solutionrelative:wpf\\temporary\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\wpf\\temporary\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf\\temporary\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\wpf\\temporary\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpf\\temporary\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:35:03.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\wpf\\temporary\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpf\\temporary\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\wpf\\temporary\\MainWindow.xaml",
+              "RelativeToolTip": "wpf\\temporary\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T13:28:44.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

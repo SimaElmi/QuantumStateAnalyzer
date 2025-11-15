@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="../Quantum simulator/Quantum simulator/Quantum simulator.csproj" />
   <Project Path="Quantum-State/Quantum-State/Quantum-State.csproj" />
-  <Project Path="temporary/temporary/wpf.csproj" />
+  <Project Path="Quantum_Analyser/Quantum_Analyser.csproj" Id="4fadca5c-ca14-4998-acd0-975075ec89f7" />
+  <Project Path="wpf/temporary/wpf.csproj" />
 </Solution>

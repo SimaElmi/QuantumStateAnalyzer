@@ -1,10 +1,15 @@
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\bin\Debug\net8.0\Quantum-State.deps.json
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\bin\Debug\net8.0\Quantum-State.dll
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\bin\Debug\net8.0\Quantum-State.pdb
+C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\bin\Debug\net8.0\Quantum_Analyser.dll
+C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\bin\Debug\net8.0\Quantum_Analyser.pdb
+C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\Quantum-State.csproj.AssemblyReference.cache
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\Quantum-State.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\Quantum-State.AssemblyInfoInputs.cache
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\Quantum-State.AssemblyInfo.cs
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\Quantum-State.csproj.CoreCompileInputs.cache
+C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\Quantum-State.sourcelink.json
+C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\Quantum-.F05C4696.Up2Date
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\Quantum-State.dll
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\refint\Quantum-State.dll
 C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\Quantum-State\Quantum-State\obj\Debug\net8.0\Quantum-State.pdb

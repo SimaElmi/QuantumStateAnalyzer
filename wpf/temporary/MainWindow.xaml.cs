@@ -1,6 +1,7 @@
 ﻿using System.Windows;
 using Microsoft.Quantum.Simulation.Core;
 using Microsoft.Quantum.Simulation.Simulators;
+using Quantum_Analyser;
 
 
 namespace Quantum_StateAnalyzer
@@ -18,7 +19,7 @@ namespace Quantum_StateAnalyzer
             using var sim = new QuantumSimulator();
 
             var result = await MeasureQubit.Run(sim);
-            Input.Text = result == Result.Zero ? "|0⟩" : "|1⟩";
+            Input.Text = result == Result.Zero? "|0⟩" : "|1⟩";
         }
 
         private async void RunBell(object sender, RoutedEventArgs e)

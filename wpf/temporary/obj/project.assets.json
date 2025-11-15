@@ -315,7 +315,24 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "Quantum simulator/1.0.0": {
+      "Quantum-State/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Quantum.QSharp.Core": "0.28.302812",
+          "Microsoft.Quantum.QSharp.Foundation": "0.28.302812",
+          "Microsoft.Quantum.Simulators": "0.28.302812",
+          "Microsoft.Quantum.Standard": "0.28.302812",
+          "Quantum_Analyser": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Quantum-State.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Quantum-State.dll": {}
+        }
+      },
+      "Quantum_Analyser/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -325,20 +342,10 @@
           "Microsoft.Quantum.Targets.Interfaces": "0.28.302812"
         },
         "compile": {
-          "bin/placeholder/Quantum simulator.dll": {}
+          "bin/placeholder/Quantum_Analyser.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Quantum simulator.dll": {}
-        }
-      },
-      "Quantum-State/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Quantum-State.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Quantum-State.dll": {}
+          "bin/placeholder/Quantum_Analyser.dll": {}
         }
       }
     }
@@ -667,21 +674,21 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Quantum simulator/1.0.0": {
-      "type": "project",
-      "path": "../../../Quantum simulator/Quantum simulator/Quantum simulator.csproj",
-      "msbuildProject": "../../../Quantum simulator/Quantum simulator/Quantum simulator.csproj"
-    },
     "Quantum-State/1.0.0": {
       "type": "project",
       "path": "../../Quantum-State/Quantum-State/Quantum-State.csproj",
       "msbuildProject": "../../Quantum-State/Quantum-State/Quantum-State.csproj"
+    },
+    "Quantum_Analyser/1.0.0": {
+      "type": "project",
+      "path": "../../Quantum_Analyser/Quantum_Analyser.csproj",
+      "msbuildProject": "../../Quantum_Analyser/Quantum_Analyser.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "Quantum simulator >= 1.0.0",
-      "Quantum-State >= 1.0.0"
+      "Quantum-State >= 1.0.0",
+      "Quantum_Analyser >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -691,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\temporary\\temporary\\wpf.csproj",
+      "projectUniqueName": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\wpf\\temporary\\wpf.csproj",
       "projectName": "wpf",
-      "projectPath": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\temporary\\temporary\\wpf.csproj",
+      "projectPath": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\wpf\\temporary\\wpf.csproj",
       "packagesPath": "C:\\Users\\Sima.Elmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\temporary\\temporary\\obj\\",
+      "outputPath": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\wpf\\temporary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -717,11 +724,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Sima.Elmi\\source\\repos\\Quantum simulator\\Quantum simulator\\Quantum simulator.csproj": {
-              "projectPath": "C:\\Users\\Sima.Elmi\\source\\repos\\Quantum simulator\\Quantum simulator\\Quantum simulator.csproj"
-            },
             "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\Quantum-State\\Quantum-State\\Quantum-State.csproj": {
               "projectPath": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\Quantum-State\\Quantum-State\\Quantum-State.csproj"
+            },
+            "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\Quantum_Analyser\\Quantum_Analyser.csproj": {
+              "projectPath": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\Quantum_Analyser\\Quantum_Analyser.csproj"
             }
           }
         }
@@ -736,7 +743,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -760,7 +767,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

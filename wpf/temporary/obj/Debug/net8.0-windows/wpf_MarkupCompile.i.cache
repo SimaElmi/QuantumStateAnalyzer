@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\temporary\temporary\obj\Debug\net8.0-windows\
+C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\wpf\temporary\obj\Debug\net8.0-windows\
 wpf
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\temporary\temporary\App.xaml
+C:\Users\Sima.Elmi\source\repos\QuantumStateAnalyzer_Clean\wpf\temporary\App.xaml
 11407045341
 
 6-610405700
-2101133804509
+2101721816805
 MainWindow.xaml;
 
 False

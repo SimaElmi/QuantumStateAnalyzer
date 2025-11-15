@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "srP5IHmZgsc=",
+  "dgSpecHash": "ReKFr46VtFA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\temporary\\temporary\\wpf.csproj",
+  "projectFilePath": "C:\\Users\\Sima.Elmi\\source\\repos\\QuantumStateAnalyzer_Clean\\wpf\\temporary\\wpf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sima.Elmi\\.nuget\\packages\\microsoft.quantum.qsharp.core\\0.28.302812\\microsoft.quantum.qsharp.core.0.28.302812.nupkg.sha512",
     "C:\\Users\\Sima.Elmi\\.nuget\\packages\\microsoft.quantum.qsharp.foundation\\0.28.302812\\microsoft.quantum.qsharp.foundation.0.28.302812.nupkg.sha512",
